@@ -1,0 +1,17 @@
+# Default ignored files
+*.jar
+!module2.jar
+application-local.properties
+/build/
+!build.*
+/.idea/
+!/.idea_copy/
+/.idea_copy/*
+!/.idea_copy/workspace.xml
+
+
+
+
+
+
+
